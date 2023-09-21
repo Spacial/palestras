@@ -1,0 +1,2 @@
+# palestras
+repositórios das palestras
